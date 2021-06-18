@@ -10,7 +10,7 @@ public class Class2 {
 		return f;
 	}
 	
-	
+	System.out.printlm("Hi");
 	
 	public static void main(String[] args) {
 		
