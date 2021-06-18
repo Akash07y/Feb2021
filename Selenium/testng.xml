@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite123">
+  <test thread-count="5" name="Chrome">
+    <classes>
+      <class name="pom.classes.TestClass"/>
+      <class name="pom.classes.TestClass3"/>
+    </classes>
+  </test> <!-- Test1234455 -->
+  
+  <test thread-count="5" name="FireFox">
+    <classes>
+      <class name="pom.classes.TestClass"/>
+      <class name="pom.classes.TestClass3"/>
+    </classes>
+  </test> <!-- Test1234455 -->
+</suite> <!-- Suite123 -->
+
+
