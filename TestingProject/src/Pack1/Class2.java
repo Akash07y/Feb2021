@@ -14,6 +14,8 @@ public class Class2 {
 	
 	public static void main(String[] args) {
 		
+		System.out.print("hello");
+		//System.out.printlm("Hi");
 		String a = "Velocity";
 		int i = a.length();
 		
