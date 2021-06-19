@@ -65,6 +65,7 @@ public class Class4 {
 		for(Map.Entry<Integer, String> e : hashMap.entrySet())
 		{
 			System.out.println(e.getKey() + " " + e.getValue());
+			System.out.println(e.getKey() + " " + e.getValue());
 		}
 		
 		Hashtable<Integer,String> hashTable = new Hashtable<Integer,String>();
